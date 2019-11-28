@@ -2,7 +2,11 @@
 ## About
 Turn a Christmas tree on/off using Siri shortcuts.
 
-![Board photo](img/board.jpg?raw=true "Board photo")
+
+
+Wiring                  |  Siri shortcut
+:-------------------------:|:-------------------------:
+![Board photo](img/board.jpg?raw=true "Board photo")  |  ![Siri photo](img/siri.jpeg?raw=true "Siri photo")
 
 ### Parts
 - [Particle Photon][0]
