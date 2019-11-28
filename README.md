@@ -1,6 +1,6 @@
 # IoT-Tree
 ## About
-Turn a Christmas tree on/off using Siri shortcuts.
+Turn a Christmas tree on/off using Siri, GCP, and a Particle board.
 
 
 
