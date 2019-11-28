@@ -13,7 +13,7 @@ Turn a Christmas tree on/off using Siri shortcuts.
 - [iOS Shortcuts app][3]
 
 ### Shortcut
-There might be a better way to define the `0` and `1` variables
+There might be a better way to define the `0` and `1` variables, but I could not figure this out.
 
 ![Shortcut photo](img/shortcut.png?raw=true "Shortcut photo")
 
