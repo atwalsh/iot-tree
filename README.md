@@ -2,7 +2,7 @@
 ## About
 Turn a Christmas tree on/off using Siri shortcuts.
 
-![Alt text](img/board.jpg?raw=true "Board photo")
+![Board photo](img/board.jpg?raw=true "Board photo")
 
 ### Parts
 - [Particle Photon][0]
@@ -10,8 +10,15 @@ Turn a Christmas tree on/off using Siri shortcuts.
 
 ### Technology
 - [GCP Cloud Functions][2]
+- [iOS Shortcuts app][3]
+
+### Shortcut
+There might be a better way to define the `0` and `1` variables
+
+![Shortcut photo](img/shortcut.png?raw=true "Shortcut photo")
 
 
 [0]: https://www.adafruit.com/product/2722
 [1]: https://www.adafruit.com/product/2935
 [2]: https://cloud.google.com/functions/
+[3]: https://support.apple.com/en-us/HT208309
