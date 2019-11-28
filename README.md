@@ -1,10 +1,10 @@
 # IoT-Tree
 ## About
-Turn a Christmas tree on/off using Siri, GCP, and a Particle board.
+Turn a Christmas tree on/off using Siri - powered by a Particle Photon and a GCP Cloud Function.
 
 
 
-Wiring                  |  Siri shortcut
+Wiring                     |  Siri shortcut
 :-------------------------:|:-------------------------:
 ![Board photo](img/board.jpg?raw=true "Board photo")  |  ![Siri photo](img/siri.jpeg?raw=true "Siri photo")
 
